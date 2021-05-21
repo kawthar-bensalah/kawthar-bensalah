@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kawthar-bensalah
-- 👀 I’m interested in programming new apps and websites
+- 👀 I’m interested in programming new applications and websites
 - ♥ I love looking through code so I can find errors and fix them
 - 🌱 I’m currently learning Front End WEB developement
 - 📫 How to reach me : bensalahkawthar9@gmail.com
