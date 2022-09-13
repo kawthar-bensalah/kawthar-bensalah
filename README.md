@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kawthar-bensalah and i'm a software engineer
+- 👋 Hi, I’m @kawthar-bensalah and i'm a fron-end Web developer
 - 👀 I’m interested in programming new applications and websites
 - ♥ I love looking through code so I can find errors and fix them
 - 🌱 I’m currently learning Front End WEB developement
